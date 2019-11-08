@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTO, Data Science, DevOps, Product Development</title>
+    <link>//dholmes.co.uk/</link>
+    <description>Recent content on CTO, Data Science, DevOps, Product Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="//dholmes.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Des Holmes</title>
+      <link>//dholmes.co.uk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//dholmes.co.uk/</guid>
+      <description>Introduction My name is Des Holmes, I’m a CTO with 20 years of experience.
+I help companies grow by hiring teams, defining digital strategies, rolling out development and delivery pipelines, and building products and services.
+During my career I&amp;rsquo;ve had the pleasure of working with the following brands: Goldman Sachs, Commerzbank, KPMG, BBC, HSBC, JP Morgan, Deutsche Bank, Ernst &amp;amp; Young, Akzonobel, Sainsbury’s, Reckitt Benckiser, Heineken, Pernod Ricard, Diageo, Adidas, Nike, VWG, Hentsu.</description>
+    </item>
+    
+  </channel>
+</rss>
